@@ -1,0 +1,6 @@
+com\journaldev\spring\dao\PersonDAOImpl.class
+com\journaldev\model\PersonMapper.class
+com\journaldev\model\Person.class
+com\journaldev\Main.class
+com\journaldev\spring\dao\PersonDAO.class
+com\journaldev\spring\config\AppConfig.class
